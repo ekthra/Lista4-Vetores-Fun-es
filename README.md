@@ -40,11 +40,11 @@ Praticar algoritmos clássicos com listas de inteiros, utilizando apenas estrutu
 
   1. Clone o repositório:
 
-    git clone https://github.com/ekthra/Lista4-Vetores-Fun-es.git
+    git clone https://github.com/ekthra/Lista4-Vetores-Fun-py.git
 
   2.Acesse a pasta do projeto:
 
-    cd Lista4-Vetores-Fun-es
+    cd Lista4-Vetores-Fun-py
 
   3.Execute o arquivo com Python 3:
 
